@@ -8,3 +8,5 @@
 - Francisco-Mendoza, mi nombre de ususario de git es: [FcoMendoza115](https://github.com/FcoMendoza115)
 
 - Mayra Avila, mi nombre de ususario de git es: [MayranAvila](https://github.com/MayranAvila)
+
+- Marina Arredondo, mi nombre de ususario de git es: [MarinaArredondo](https://github.com/ElisaCarstairs)
